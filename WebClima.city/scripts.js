@@ -1,4 +1,5 @@
 //ESSA CHAVE VC CONSEGUE NO SITE DO API PROFESSOR
+//https://openweathermap.org/
 
 let chave = "60dbbf79d4ce1457e90a21dd28f1ffaf"
 
